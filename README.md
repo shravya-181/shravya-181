@@ -1,4 +1,4 @@
-# Hi, I'm Shravya Gowda 👋
+# Hi, I'm Shravya M S 👋
 
 ### MCA Student | Aspiring Software Engineer | AI/ML Enthusiast
 
