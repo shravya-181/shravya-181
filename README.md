@@ -37,6 +37,6 @@ I'm currently pursuing my Master of Computer Applications (MCA) at Presidency Co
 ## 🤝 Connect With Me
 
 - GitHub: [@shravya-181](https://github.com/shravya-181)
-- LinkedIn: (https://www.linkedin.com/in/shravyams)
+- LinkedIn: https://www.linkedin.com/in/shravyams
 
 I'm always eager to learn, build projects, and improve my technical skills.
